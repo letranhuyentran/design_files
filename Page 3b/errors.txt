@@ -1,0 +1,1 @@
+[Fri May 18 2018 18:01:11 GMT-0500 (CDT)] Layer "line.png copy": Expected end of input but "c" found.
